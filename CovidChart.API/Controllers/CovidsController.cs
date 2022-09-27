@@ -24,9 +24,9 @@ namespace CovidChart.API.Controllers
         {
             await _service.SaveCovid(covid);
 
-            IQueryable<Covid> covidList = _service.GetList();
+            //IQueryable<Covid> covidList = _service.GetList();
 
-            return Ok(covidList);
+            return Ok(_service.GetCovidChartList());
         }
 
         [HttpGet]
