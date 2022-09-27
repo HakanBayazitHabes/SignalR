@@ -29,6 +29,13 @@ namespace CovidChart.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped<CovidService>();
+            services.AddCors(options =>
+            {
+                options.AddPolicy("CorsPolicy", builder =>
+                {
+                    builder.WithOrigins("https://localhost:44323").AllowAnyHeader().AllowAnyMethod().AllowCredentials();
+                });
+            });
             services.AddDbContext<AppDbContext>(options =>
             {
                 options.UseSqlServer(Configuration.GetConnectionString("SqlServer"));
@@ -48,7 +55,7 @@ namespace CovidChart.API
             app.UseHttpsRedirection();
 
             app.UseRouting();
-
+            app.UseCors("CorsPolicy");
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

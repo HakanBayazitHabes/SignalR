@@ -52,4 +52,3 @@ C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.API\bin\D
 C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.API\obj\Debug\netcoreapp3.1\SignalR.API.csproj.CopyComplete
 C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.API\obj\Debug\netcoreapp3.1\staticwebassets\SignalR.API.StaticWebAssets.xml
 C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\SignalR.API.styles.css
-C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.API\obj\Debug\netcoreapp3.1\SignalR.API.csproj.AssemblyReference.cache
