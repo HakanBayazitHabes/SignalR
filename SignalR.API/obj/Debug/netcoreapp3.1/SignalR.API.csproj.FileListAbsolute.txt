@@ -50,4 +50,6 @@ C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.API\bin\D
 C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.API\obj\Debug\netcoreapp3.1\SignalR.API.csproj.CopyComplete
+C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.API\obj\Debug\netcoreapp3.1\staticwebassets\SignalR.API.StaticWebAssets.xml
+C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\SignalR.API.styles.css
 C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.API\obj\Debug\netcoreapp3.1\SignalR.API.csproj.AssemblyReference.cache

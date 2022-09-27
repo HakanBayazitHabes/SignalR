@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.API", "SignalR.API\SignalR.API.csproj", "{5EBDB17F-C650-4571-9D9D-54A682366466}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalR.API", "SignalR.API\SignalR.API.csproj", "{5EBDB17F-C650-4571-9D9D-54A682366466}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.Web", "SignalR.Web\SignalR.Web.csproj", "{F1BC67E8-75D2-4085-992A-B966F9699E8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalR.Web", "SignalR.Web\SignalR.Web.csproj", "{F1BC67E8-75D2-4085-992A-B966F9699E8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidChart.API", "CovidChart.API\CovidChart.API.csproj", "{83EF2FE0-D8BC-4012-8171-58859DAB9FBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F1BC67E8-75D2-4085-992A-B966F9699E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1BC67E8-75D2-4085-992A-B966F9699E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1BC67E8-75D2-4085-992A-B966F9699E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83EF2FE0-D8BC-4012-8171-58859DAB9FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83EF2FE0-D8BC-4012-8171-58859DAB9FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83EF2FE0-D8BC-4012-8171-58859DAB9FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83EF2FE0-D8BC-4012-8171-58859DAB9FBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
