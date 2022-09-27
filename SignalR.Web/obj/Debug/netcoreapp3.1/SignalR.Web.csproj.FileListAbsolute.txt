@@ -1,5 +1,6 @@
 C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.Web\bin\Debug\netcoreapp3.1\libman.json
 C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.Web\bin\Debug\netcoreapp3.1\SignalR.Web.exe
 C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.Web\bin\Debug\netcoreapp3.1\SignalR.Web.deps.json
 C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.Web\bin\Debug\netcoreapp3.1\SignalR.Web.runtimeconfig.json
@@ -35,5 +36,3 @@ C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.Web\obj\D
 C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.Web\obj\Debug\netcoreapp3.1\SignalR.Web.pdb
 C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.Web\obj\Debug\netcoreapp3.1\SignalR.Web.genruntimeconfig.cache
 C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.Web\obj\Debug\netcoreapp3.1\SignalR.Web.csproj.CopyComplete
-C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.Web\bin\Debug\netcoreapp3.1\libman.json
-C:\Users\user\Desktop\Software\Fatih Çakıroğlu Core\SignalR\SignalR.Web\obj\Debug\netcoreapp3.1\SignalR.Web.csproj.AssemblyReference.cache
