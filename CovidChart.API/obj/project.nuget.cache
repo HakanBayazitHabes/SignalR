@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8E4jwvIICFZtXXli3S4LXZXT+NcxauTOTmuQqhQH17b+cgQKbjMaQLXPxcmnEz/Y7Ox+9PD1epr1gfwv5UreSQ==",
+  "dgSpecHash": "J6p2DifdrLvne0Tiaq0itpXL9jIL/DtCgF9n/6LnTVOQJWuWLA1sZLdiuxdN04q6mkkAlu4UPGfLal+3F//QSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Software\\Fatih Çakıroğlu Core\\SignalR\\CovidChart.API\\CovidChart.API.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Software\\Fatih Çakıroğlu Core\\SignalR\\SignalR\\CovidChart.API\\CovidChart.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

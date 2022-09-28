@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OKz4ZcOLy/k2wQ3NGISlJVsO211Uz2IsnL5/AxGekMsZuE0Yx1hYVxpsryLQvp2X/K8hJhL/CjyYndPQNTDo4A==",
+  "dgSpecHash": "efl3FcZTwO8tuN4Gq1muclf/7kSbq7LJjyn2jR+Z9O0EybmPYI0VeTX7QPw6vaAv+05F1DWxX+Lp7NIm3cjMRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Software\\Fatih Çakıroğlu Core\\SignalR\\SignalR.API\\SignalR.API.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Software\\Fatih Çakıroğlu Core\\SignalR\\SignalR\\SignalR.API\\SignalR.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
